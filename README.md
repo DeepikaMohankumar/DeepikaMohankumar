@@ -1,5 +1,6 @@
 # 💫 About Me:
 🧑‍🎓 I'm a student
+
 🌱 I'm currently learning signal processing
 
 ## 🌐 Socials:
