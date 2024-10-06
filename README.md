@@ -1,7 +1,7 @@
 # 💫 About Me:
 🧑‍🎓 I'm a student
 
-🌱 I'm currently learning signal processing
+🌱 currently I'm in 3rd year ,Electronics and communication Engineering
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bright_light_31) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Deepika M) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/deekshadeepa23) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@just_chill0211) 
